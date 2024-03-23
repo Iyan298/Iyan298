@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Iyan Ali</h1>
-<h3 align="center">A Mechanical and AI lover</h3>
+<h3 align="center">Passionate Mechatronics Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iyan298&label=Profile%20views&color=0e75b6&style=flat" alt="iyan298" /> </p>
 
